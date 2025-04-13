@@ -1,0 +1,3 @@
+Module de gestion des empreintes digitales – à développer
+Technologie : Capteur ZFM-20
+Interface avec Arduino
